@@ -21,7 +21,7 @@ DO:
 5. staging a change
 	- `git status` -- que pasó?
 	- `git add -p` -- let's pause again and visualize some abstract spaces.
-	- `git commmit -m 'add my bio'` -- from one space to another space, still on your local machine so far.
+	- `git commit -m 'add my bio'` -- from one space to another space, still on your local machine so far.
 	- `git status` -- take two
 6. contributing to the common good
 	- `git fork` -- a few things are happening.
