@@ -22,7 +22,7 @@ DO:
 	- `git status` -- que pasó?
 	- `git add -p` -- let's pause again and visualize some abstract spaces.
 	- `git commmit -m 'add my bio'` -- from one space to another space, still on your local machine so far.
-	- `git stauts` -- take two
+	- `git status` -- take two
 6. contributing to the common good
 	- `git fork` -- a few things are happening.
 	- `git push YOUR_USER mybio` -- refresh your GitHub account, something has happend.
